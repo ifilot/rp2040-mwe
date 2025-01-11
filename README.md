@@ -8,3 +8,9 @@ costs.
 
 BOM and placement files as well as the GERBER files are added available
 for easy ordering.
+
+> [!IMPORTANT]
+> I did not design this PCB. I merely added the part IDs for JLCPCB and
+> generated the BOM and CPL files. The original designs are made by
+> Raspberry Pi LTD and it is highly recommended to always check their
+> website for the latest version. See the link above.
