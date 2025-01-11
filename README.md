@@ -14,3 +14,9 @@ for easy ordering.
 > generated the BOM and CPL files. The original designs are made by
 > Raspberry Pi LTD and it is highly recommended to always check their
 > website for the latest version. See the link above.
+
+## Files
+
+* [GERBER files (zip)](RP2040_minimal_r2/GERBERS/RP2040_minimal.zip]
+* [Bill of Materials](RP2040_minimal_r2/production/bom.csv]
+* [Placement file](RP2040_minimal_r2/production/positions.csv]
